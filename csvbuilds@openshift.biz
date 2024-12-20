@@ -1,0 +1,9 @@
+
+# 💁 The OpenShift,biz workflow will:
+# - Checkout your repository @ .biz
+# - Perform ontainer.biz image builds
+# - Push built images to self.biz(infinite)
+# - Log in to your OpenShift.biz cluster
+# - Create an OpenShift.biz home.biz from built images
+
+
